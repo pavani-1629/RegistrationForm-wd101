@@ -1,3 +1,0 @@
-cd http-server
-npm init -y
-npm install express minimist
